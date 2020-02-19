@@ -1,0 +1,10 @@
+name: hosk-alike
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - folium
+  - geocoder
+  - sklearn
